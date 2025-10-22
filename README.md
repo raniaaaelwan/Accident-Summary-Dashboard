@@ -36,7 +36,7 @@ This dashboard provides insights into:
 
 ## 🧩 Dataset
 Due to file size limitations, the dataset is hosted on Google Drive:
-[🔗 Download Dataset]([https://drive.google.com/file/d/1A995q3gajEyXqz0MaDWL1nIaJCbf-uVL/view?usp=drive_link](https://drive.google.com/file/d/1ZDH74AOG0r5TPKK_YJ0LNFIom1USRnj7/view?usp=drive_link))
+[🔗 Download Dataset](https://drive.google.com/file/d/1ZDH74AOG0r5TPKK_YJ0LNFIom1USRnj7/view?usp=drive_link)
 
 ---
 
@@ -57,9 +57,7 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 ---
 
 ## 🔗 Links
-- [📂 View Dashboard File (Power BI)](./Accident_Summary.pbix)
-- [🌐 View Dataset]([https://drive.google.com/file/d/1A995q3gajEyXqz0MaDWL1nIaJCbf-uVL/view](https://drive.google.com/file/d/1ZDH74AOG0r5TPKK_YJ0LNFIom1USRnj7/view?usp=drive_link))
-- [💼 View on Portfolio]([https://your-portfolio-link.com](https://rania-elwan-portfolio-csuprcg.gamma.site/rania-elwan-portfolio))
+- [📂 View Dashboard File (Power BI)](Accident_Dashboard.pbix)
 
 ---
 
