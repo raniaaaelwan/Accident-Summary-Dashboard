@@ -42,7 +42,7 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 
 ## 🖼️ Dashboard Preview
 | Overview |
-![Overview](Overview.PNG)
+![Accident Dashboard](Accident.PNG)
 |-----------|
 
 
