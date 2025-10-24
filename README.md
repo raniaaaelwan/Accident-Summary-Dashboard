@@ -40,27 +40,15 @@ Due to file size limitations, the dataset is hosted on Google Drive:
 
 ---
 
-## 🖼️ Dashboard Preview
-| Overview |
-![Accident Dashboard](Accident.PNG)
-|-----------|
-
-
----
-
 ## 💡 Key Insights
 - In **2022**, there were **X total accidents** and **Y casualties**.  
 - Most accidents occurred on **urban roads** and under **daylight** conditions.  
 - **Cars** were the leading vehicle type involved in accidents.  
 - The **top 10 locations** accounted for nearly **25% of all casualties**.
-
----
-
-## 🔗 Links
-- [📂 View Dashboard File (Power BI)](Accident_Dashboard.pbix)
-
+- 
 ---
 
 ## 👩‍💻 Author
-*Rania Sami Mohamed Alwan*
+**Rania Sami Mohamed Elwan**
+
 _Data Analyst | Power BI | SQL | Excel_
